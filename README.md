@@ -100,14 +100,6 @@ node calculator_async.js 15 5 dividir
 
 ---
 
-## 📝 Observações
-
-- O projeto utiliza o pacote [`soap`](https://www.npmjs.com/package/soap) para consumir o serviço SOAP.
-- O terminal é estilizado com [`chalk`](https://www.npmjs.com/package/chalk) para melhor experiência visual.
-- O código está organizado para facilitar a leitura, manutenção e demonstração em vídeo.
-
----
-
 ## 👨‍💻 Autor
 
 João Victor 
