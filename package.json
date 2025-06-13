@@ -1,0 +1,26 @@
+{
+  "name": "desafio-soap",
+  "version": "1.0.0",
+  "description": "Desafio faculdade",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvictordev7/Desafio-Soap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jvictordev7/Desafio-Soap/issues"
+  },
+  "homepage": "https://github.com/jvictordev7/Desafio-Soap#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "soap": "^1.1.12"
+  }
+}
